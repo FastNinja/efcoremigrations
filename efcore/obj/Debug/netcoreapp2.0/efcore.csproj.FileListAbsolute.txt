@@ -1,8 +1,0 @@
-/Users/alex.maslyukov/Documents/sandpit/efcore/bin/Debug/netcoreapp2.0/efcore.deps.json
-/Users/alex.maslyukov/Documents/sandpit/efcore/bin/Debug/netcoreapp2.0/efcore.dll
-/Users/alex.maslyukov/Documents/sandpit/efcore/bin/Debug/netcoreapp2.0/efcore.pdb
-/Users/alex.maslyukov/Documents/sandpit/efcore/obj/Debug/netcoreapp2.0/efcore.csproj.CoreCompileInputs.cache
-/Users/alex.maslyukov/Documents/sandpit/efcore/obj/Debug/netcoreapp2.0/efcore.AssemblyInfoInputs.cache
-/Users/alex.maslyukov/Documents/sandpit/efcore/obj/Debug/netcoreapp2.0/efcore.AssemblyInfo.cs
-/Users/alex.maslyukov/Documents/sandpit/efcore/obj/Debug/netcoreapp2.0/efcore.dll
-/Users/alex.maslyukov/Documents/sandpit/efcore/obj/Debug/netcoreapp2.0/efcore.pdb
