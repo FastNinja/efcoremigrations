@@ -1,0 +1,15 @@
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/eftests.deps.json
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/eftests.runtimeconfig.json
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/eftests.runtimeconfig.dev.json
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/eftests.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/eftests.pdb
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/efcore.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/bin/Debug/netcoreapp2.0/efcore.pdb
+/Users/alex.maslyukov/Documents/sandpit/eftests/obj/Debug/netcoreapp2.0/eftests.csproj.CoreCompileInputs.cache
+/Users/alex.maslyukov/Documents/sandpit/eftests/obj/Debug/netcoreapp2.0/eftests.AssemblyInfoInputs.cache
+/Users/alex.maslyukov/Documents/sandpit/eftests/obj/Debug/netcoreapp2.0/eftests.AssemblyInfo.cs
+/Users/alex.maslyukov/Documents/sandpit/eftests/obj/Debug/netcoreapp2.0/eftests.dll
+/Users/alex.maslyukov/Documents/sandpit/eftests/obj/Debug/netcoreapp2.0/eftests.pdb
