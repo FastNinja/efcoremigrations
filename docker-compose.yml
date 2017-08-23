@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  unit-test:
+    image: microsoft/dotnet:2.0-sdk
+    volumes:
+      - ./efcore:/efcore
+      - ./eftests:/eftests
+    working_dir: /eftests
+    command: bash -c "dotnet build && dotnet test"
+    depends_on:
+      - db
+    environment:
+      POSTGRES_CONNECTION_STRING: Host=db;Port=5432;Database=postgres;Username=postgres;Password=postgres
+
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+
+    
